@@ -1,0 +1,7 @@
+En este ejemplo, el botón se ha dividido en un bloque (block) y un modificador (modifier). El bloque se llama .button, y el modificador se llama .button--submit.
+
+El bloque .button contiene las propiedades de estilo básicas que se aplican a todos los botones, como el tamaño de fuente y la alineación del texto. El modificador .button--submit se utiliza para cambiar el estilo del botón de envío de formulario específicamente, con un fondo azul y texto blanco.
+
+También se ha añadido un modificador .button--submit:hover para cambiar el estilo del botón cuando se pasa el cursor sobre él.
+
+El uso de la metodología BEM hace que las hojas de estilo CSS sean más fáciles de entender y mantener a medida que crece un proyecto, al separar claramente los bloques, elementos y modificadores de un componente.

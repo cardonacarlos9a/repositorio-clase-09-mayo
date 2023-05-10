@@ -1,0 +1,46 @@
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: right;
+    text-decoration: none;
+    border-radius: 25px;
+    border: none;
+    cursor: pointer;
+}
+  
+.button--upgrade{
+    background-color: #c652bb;
+}
+.button--getCertified{
+    background-color: #cea0c9;
+}
+
+.button--createWebsite {
+    background-color: yellow;
+}
+
+.button--createWebsite:hover{
+    background-color: rgb(139, 210, 214);
+}
+
+.button--signUp{
+    background-color: green
+}
+
+.button--submit {
+    background-color: #007bff;
+    color: #fff;
+}
+  
+  .button--login{
+    background-color: #d78f94;
+
+  }
+
+.button--submit:hover {
+    background-color: #2aa543;
+}
+
+  

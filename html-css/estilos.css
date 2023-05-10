@@ -1,0 +1,35 @@
+/* Diferencias entre Class y ID
+La principal diferencia entre Class y ID es que un ID es único en toda la página, mientras que una Class puede ser utilizada en múltiples elementos.
+Además, los ID tienen prioridad sobre las Class en CSS. Esto significa que si un elemento tiene tanto un ID como una Class y se aplican estilos a ambos en CSS, los estilos del ID tendrán mayor prioridad y se aplicarán al elemento.
+
+Uso de Class y ID en HTML y CSS
+Para aplicar estilos a un elemento utilizando su Class o ID en CSS, se utiliza el selector correspondiente.
+Por ejemplo, para aplicar estilos a una sección con el ID "seccion-1": */
+#seccion-1 {
+    background-color: #dc3434;
+    padding: 20px;
+  }
+  
+  
+  
+  body{
+    background-color: rgb(172, 187, 226);
+  }
+  
+  p {
+    color: rgb(94, 94, 104);
+  }
+
+  header h1{
+    color: rgb(92, 99, 92);
+  }
+
+  #seccion-2{
+    background-color: #4f8f66;
+
+  }
+
+  nav li{
+    color: rgb(98, 58, 199);
+
+  }

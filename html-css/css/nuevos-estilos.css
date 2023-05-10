@@ -1,0 +1,20 @@
+/* Y para aplicar estilos a todas las secciones con la Class "seccion": */
+.seccion {
+    border: 10px dotted #d2a3a3;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px 0;
+  }
+
+  .seccion--seccionSkills {
+    background-color: #e12525;
+
+  }
+  .seccion-trabajoReciente{
+    background-color: aquamarine;
+  }
+
+  .seccion-general{
+    background-color: #3e3333;
+
+  }

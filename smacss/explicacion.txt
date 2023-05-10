@@ -1,0 +1,7 @@
+En este ejemplo, la hoja de estilo CSS se ha estructurado siguiendo las directrices de SMACSS, separando la estructura, la presentación y el comportamiento.
+
+En la sección de estructura, se han definido las reglas de estilo para la disposición y el posicionamiento de los elementos del menú de navegación. Se ha utilizado Flexbox para centrar horizontalmente el menú de navegación, y se ha eliminado el margen y el relleno predeterminados de la lista de elementos.
+
+En la sección de presentación, se han definido las reglas de estilo para la apariencia visual del menú de navegación, como el color de texto y el tamaño de fuente. También se ha añadido una regla de estilo para cambiar el color del texto cuando se pasa el cursor sobre un enlace.
+
+Este ejemplo es solo una forma de utilizar la metodología SMACSS, y existen muchas otras formas de aplicarla en diferentes proyectos. Lo importante es que la hoja de estilo CSS se organice de manera clara y estructurada para que sea fácil de entender y mantener a medida que el proyecto crece y evoluciona.
